@@ -1,2 +1,2 @@
 # SP1
- SystemProgramming Распознавание слов из файла
+ SystemProgramming Слова з файлу
